@@ -1,0 +1,15 @@
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Pilha_Fila_Int\Exercicio_Pilha_Fila_Int\bin\Debug\net6.0\Exercicio_Pilha_Fila_Int.exe
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Pilha_Fila_Int\Exercicio_Pilha_Fila_Int\bin\Debug\net6.0\Exercicio_Pilha_Fila_Int.deps.json
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Pilha_Fila_Int\Exercicio_Pilha_Fila_Int\bin\Debug\net6.0\Exercicio_Pilha_Fila_Int.runtimeconfig.json
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Pilha_Fila_Int\Exercicio_Pilha_Fila_Int\bin\Debug\net6.0\Exercicio_Pilha_Fila_Int.dll
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Pilha_Fila_Int\Exercicio_Pilha_Fila_Int\bin\Debug\net6.0\Exercicio_Pilha_Fila_Int.pdb
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Pilha_Fila_Int\Exercicio_Pilha_Fila_Int\obj\Debug\net6.0\Exercicio_Pilha_Fila_Int.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Pilha_Fila_Int\Exercicio_Pilha_Fila_Int\obj\Debug\net6.0\Exercicio_Pilha_Fila_Int.AssemblyInfoInputs.cache
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Pilha_Fila_Int\Exercicio_Pilha_Fila_Int\obj\Debug\net6.0\Exercicio_Pilha_Fila_Int.AssemblyInfo.cs
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Pilha_Fila_Int\Exercicio_Pilha_Fila_Int\obj\Debug\net6.0\Exercicio_Pilha_Fila_Int.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Pilha_Fila_Int\Exercicio_Pilha_Fila_Int\obj\Debug\net6.0\Exercicio_Pilha_Fila_Int.sourcelink.json
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Pilha_Fila_Int\Exercicio_Pilha_Fila_Int\obj\Debug\net6.0\Exercicio_Pilha_Fila_Int.dll
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Pilha_Fila_Int\Exercicio_Pilha_Fila_Int\obj\Debug\net6.0\refint\Exercicio_Pilha_Fila_Int.dll
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Pilha_Fila_Int\Exercicio_Pilha_Fila_Int\obj\Debug\net6.0\Exercicio_Pilha_Fila_Int.pdb
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Pilha_Fila_Int\Exercicio_Pilha_Fila_Int\obj\Debug\net6.0\Exercicio_Pilha_Fila_Int.genruntimeconfig.cache
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Pilha_Fila_Int\Exercicio_Pilha_Fila_Int\obj\Debug\net6.0\ref\Exercicio_Pilha_Fila_Int.dll
